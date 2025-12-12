@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KIRUBA69
-- 👀 I’m interested in ...learning
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @KIRUBA110
+- 👀 I’m interested in ...learning electronics
+- 🌱 I’m currently learning ...python,C and machine learning 
+- 💞️ I’m looking to collaborate on electronics
+- 📫 How to reach me kirubagaran484@gmail.com
 
 <!---
 KIRUBA69/KIRUBA69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
